@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600');
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+section {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.name {
+  font-size: 30px;
+}
+
+.data {
+  color: gray
+}
+
+.friends {
+  margin-top: 20px;
+}
